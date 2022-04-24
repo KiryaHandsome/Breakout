@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/">
+        <file>ArcanoidBall.png</file>
+        <file>ArcanoidBrick.png</file>
+        <file>ArcanoidPaddle.png</file>
+    </qresource>
+</RCC>
